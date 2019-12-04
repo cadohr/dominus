@@ -1,0 +1,36 @@
+[
+  { "id": "0", "name": "BrancoBranco", "value": 0, "selected": false },
+
+  { "id": "1", "name": "AsBranco", "value": 1, "selected": false },
+  { "id": "2", "name": "AsAs", "value": 2, "selected": false },
+
+  { "id": "3", "name": "DuqueBranco", "value": 2, "selected": false },
+  { "id": "4", "name": "DuqueAs", "value": 3, "selected": false },
+  { "id": "5", "name": "DuqueDuque", "value": 4, "selected": false },
+
+  { "id": "6", "name": "TernoBranco", "value": 3, "selected": false },
+  { "id": "7", "name": "TernoAs", "value": 4, "selected": false },
+  { "id": "8", "name": "TernoDuque", "value": 5, "selected": false },
+  { "id": "9", "name": "TernoTerno", "value": 6, "selected": false },
+
+  { "id": "10", "name": "QuadraBranco", "value": 4, "selected": false },
+  { "id": "12", "name": "QuadraAs", "value": 5, "selected": false },
+  { "id": "13", "name": "QuadraDuque", "value": 6, "selected": false },
+  { "id": "14", "name": "QuadraTerno", "value": 7, "selected": false },
+  { "id": "15", "name": "QuadraQuadra", "value": 8, "selected": false },
+
+  { "id": "16", "name": "QuinaBranco", "value": 5, "selected": false },
+  { "id": "17", "name": "QuinaAs", "value": 6, "selected": false },
+  { "id": "18", "name": "QuinaDuque", "value": 7, "selected": false },
+  { "id": "19", "name": "QuinaTerno", "value": 8, "selected": false },
+  { "id": "20", "name": "QuinaQuadra", "value": 9, "selected": false },
+  { "id": "21", "name": "QuinaQuina", "value": 10, "selected": false },
+
+  { "id": "22", "name": "SenaBranco", "value": 6, "selected": false },
+  { "id": "23", "name": "SenaAs", "value": 7, "selected": false },
+  { "id": "24", "name": "SenaDuque", "value": 8, "selected": false },
+  { "id": "25", "name": "SenaTerno", "value": 9, "selected": false },
+  { "id": "26", "name": "SenaQuadra", "value": 10, "selected": false },
+  { "id": "27", "name": "SenaQuina", "value": 11, "selected": false },
+  { "id": "28", "name": "SenaSena", "value": 12, "selected": false }
+]
